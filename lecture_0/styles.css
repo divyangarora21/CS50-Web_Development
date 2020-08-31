@@ -3,7 +3,7 @@ h1{	 color:Red;
 	 font-size:20; 
 	}
 
-div{
+div,img{
 	 background-color: teal;
 	 height: 400px;
 	 width: 500px;
