@@ -4,13 +4,26 @@ h1{	 color:Red;
 	}
 
 div,img{
-	 background-color: teal;
+	 background-color: orange;
 	 height: 400px;
 	 width: 500px;
 	 margin: 30px;
 	 padding: 20px;
-	 border: red dotted; 
+	 border:  3px green solid; 
 	 font-family: Arial , sans-serif;
 	 font-size: 28px;
 	 font-weight: bold;
 	}
+table{
+	border: 2px solid black;
+	height: 350px;
+	width: 500px;
+	margin: 30px;
+	padding: 20px;
+	text-align: center;
+	border-collapse: collapse;
+}
+td,th{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
