@@ -6,3 +6,8 @@ specificity of order for CSS:
 2) id
 3) class
 4) type
+
+using saas as css.
+write saas code,recompile saas file to css file by: saas xyz.scss:xyz.css
+to keep a watch on the scss file use: saas --watch variables.scss:variables.css
+We can also nest inside the scss selectors. 
