@@ -9,5 +9,7 @@ specificity of order for CSS:
 
 using saas as css.
 write saas code,recompile saas file to css file by: saas xyz.scss:xyz.css
-to keep a watch on the scss file use: saas --watch variables.scss:variables.css
-We can also nest inside the scss selectors. 
+We keep a watch on the scss file use: saas --watch variables.scss:variables.css
+We can also nest inside the scss selectors rather than using the descendent selectors. 
+We can use variables in SCSS.
+SCSS provides a feature of inheritence. 
